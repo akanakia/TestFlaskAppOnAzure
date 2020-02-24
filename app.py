@@ -1,4 +1,5 @@
 from flask import Flask, request
+
 app = Flask(__name__)
 
 title = "<h1>Hello this is Anshul's Azure Web App running on Linux!</h1>"
